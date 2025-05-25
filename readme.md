@@ -1,2 +1,1 @@
-# a file on lc 
-leetcode solutions
+this respective repository contains my solutions to the leetcode problems that i have solved
